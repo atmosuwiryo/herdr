@@ -1417,6 +1417,17 @@
             "on",
             "off"
           ]
+        },
+        {
+          "key": "ui.sound.agents.codewhale",
+          "type": "enum",
+          "default": "\"default\"",
+          "description": "Sound override for detected Codewhale agents.",
+          "values": [
+            "default",
+            "on",
+            "off"
+          ]
         }
       ]
     },
